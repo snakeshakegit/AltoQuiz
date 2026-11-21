@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308902872696",
+    "project_id": "quizzbuzz-64752",
+    "storage_bucket": "quizzbuzz-64752.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308902872696:android:95e3e776a93b3f16798f8d",
+        "android_client_info": {
+          "package_name": "com.Buzzy.alto_quizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJwGIoKmtKsOsHal8-vUQ37DJNY5qPve0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
